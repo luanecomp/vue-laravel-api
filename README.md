@@ -1,5 +1,5 @@
 ## Descrição
-Crud feito utilizando o Framework Laravel e o frontend em Vue.js. A aplicação permite fazer depósito, saque e consultar saldo de uma conta previamente cadastrada, utilizando Vue.js no frontend e Laravel API no backend do projeto.
+Simples projeto de comunicação entre API REST e frontend utilizando o Framework Laravel e o Vue.js. A aplicação permite fazer depósito, saque e consultar saldo de uma conta bancária previamente cadastrada, utilizando Vue.js no frontend e Laravel API no backend do projeto.
 
 ## Executando o projeto pela primeira vez
 
